@@ -320,3 +320,11 @@
 
 
 ## How to judge where to draw the line between usability and scalability and strength?
+
+## Review
+	-Pro
+		-super thorough
+		-explicit instructions on how to apply
+
+	-Con
+		-way too much info for 4 hrs, kinda rushed
